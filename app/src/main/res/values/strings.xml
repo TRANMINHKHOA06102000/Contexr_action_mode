@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ConTextActionMode</string>
+
+    <string-array name="fruits">
+        <item>Apple</item>
+        <item>Orange</item>
+        <item>Grapes</item>
+        <item>Kiwi</item>
+        <item>Banana</item>
+        <item>Cherries</item>
+        <item>Mango</item>
+        <item>Tomato</item>
+        <item>Watermelon</item>
+        <item>Jackfruit</item>
+    </string-array>
+</resources>
